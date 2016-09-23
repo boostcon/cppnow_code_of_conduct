@@ -30,9 +30,9 @@ dialing 911. If you do not have a cell phone, you can use any hotel phone or sim
 
 **Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
 will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
-the offenders, and the community at large, to grow, learn, and become better. PyCon staff requests
-that they be your first resource when reporting a PyCon-related incident, so that they may enforce
+the offenders, and the community at large, to grow, learn, and become better. CppCon staff requests
+that they be your first resource when reporting a CppCon-related incident, so that they may enforce
 the Code of Conduct and take quick action toward a resolution.
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers.
-If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+A listing of [CppCon staff is located here](link), including contact phone numbers.
+If at all possible, all reports should be made directly to [Name](email) (title).

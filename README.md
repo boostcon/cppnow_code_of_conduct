@@ -1,7 +1,8 @@
-pycon-code-of-conduct
+cppcon-code-of-conduct
 =====================
 
-This is a "fork" of the 2013 PyCon code of conduct including the staff and attendee guides. 
+This is a "fork" of the 2013 PyCon code of conduct including the staff and attendee guides. We have made a search and
+replace substitution of "Py" with "Cpp" as a starting template for the revised CppCon Code of Conduct.
 
 Thank you to Adria Richards and many others with the Python Software Foundation and Python community for recommending
 that we publicly discuss and version control these documents so changes can be suggested, wording corrected and we can
