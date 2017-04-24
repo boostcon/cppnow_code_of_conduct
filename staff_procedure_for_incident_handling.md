@@ -6,8 +6,8 @@ an incident of harassment or other inappropriate behavior.
 
 First, familiarize yourself with:
 
-- [The Code of Conduct](%%REPO%%/code-of-conduct.md).
-- [The Attendee Procedure for Incident Handling](%%REPO%%/attendee-procedure-for-incident-handling.md).
+- [The Code of Conduct](%%REPO%%/code_of_conduct.md).
+- [The Attendee Procedure for Incident Handling](%%REPO%%/attendee_procedure_for_incident_handling.md).
 
 Reporting Procedure
 -------------------
@@ -114,7 +114,7 @@ that the incident occurred to begin with. If there are residual hard feelings,
 suggest that they write an email to %%COC-STAFF-FIRST-NAMES%%.
 
 **10. The Code of Conduct conference staff will make an announcement if
-necessary.** Jon, Bryce, Placeholder1 and Placeholder2 may decide to make a
+necessary.** %%COC-STAFF-FIRST-NAMES%% may decide to make a
 public announcement about the incident. If an announcement is made, the privacy
 of individual attendees should be respected. Personal information and details
 of the incident should not be shared unless it is necessary.

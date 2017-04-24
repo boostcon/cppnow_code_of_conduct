@@ -1,18 +1,29 @@
-cppcon-code-of-conduct
-=====================
+The C++ Code of Conduct is a derivative of the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct)
+intended for use at C++ community events. It is generic; concrete event
+details, contact info, etc have been replaced with generic placeholders.
 
-This is a "fork" of the 2013 PyCon code of conduct including the staff and attendee guides. We have made a search and
-replace substitution of "Py" with "Cpp" as a starting template for the revised CppCon Code of Conduct.
+All placeholders match the regex `%%[A-Za-z0-9-]+%%`. The placeholders are:
 
-Thank you to Adria Richards and many others with the Python Software Foundation and Python community for recommending
-that we publicly discuss and version control these documents so changes can be suggested, wording corrected and we can
-continue to iterate, as a community on these policies and procedures.
+```
+%%CONFERENCE%%             - Name of the conference.
+%%COMMUNITY%%              - The community served by the conference. 
+%%REPO%%                   - The repository or location of the Code of Conduct.
+%%COC-STAFF-CONTACT-INFO%% - The contact information for the conference staff
+                             members who handle Code of Conduct matters; use of
+                             a multi-line markdown list is suggested.
+%%COC-STAFF-FIRST-NAMES%%  - The first names of the above conference staff
+                             members.
+```
 
-PyCon and the community as a whole are still very much in a learning process, the conference is 11 years old and still
-evolving daily. Each year we see massive improvements (such as the code of conduct and staff procedures) and PyCon 2013
-was no different.
+For example, for C++Now, the placeholders would be replaced with:
 
-We hope, as a team we can iterate and improve continually.
+```
+%%CONFERENCE%%             - C++Now 
+%%COMMUNITY%%              - C++ 
+%%REPO%%                   - https://github.com/boostcon/cppnow_code_of_conduct 
+%%COC-STAFF-CONTACT-INFO%% - * Jon Kalb,                Conference Chair, [mailto:jon@cppnow.org][]
+                             * Bryce Adelstein Lelbach, Program Chair,    [mailto:bryce@cppnow.org][]
+                             * Jackie Kay,              Attendee Liasion, [mailto:jackie@cppnow.org][]
+%%COC-STAFF-FIRST-NAMES%%  - Jon, Bryce and/or Jackie 
+```
 
-No changes are final until approved by the PyCon Chair / Staff and versions in place for a given year will be clearly
-marked, the website contents on us.pycon.org will clearly state the revision of the documents posted.
