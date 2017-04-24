@@ -7,7 +7,6 @@ All placeholders match the regex `%%[A-Za-z0-9-]+%%`. The placeholders are:
 ```
 %%CONFERENCE%%             - Name of the conference.
 %%COMMUNITY%%              - The community served by the conference. 
-%%REPO%%                   - The repository or location of the Code of Conduct.
 %%COC-STAFF-CONTACT-INFO%% - The contact information for the conference staff
                              members who handle Code of Conduct matters; use of
                              a multi-line markdown list is suggested.
@@ -20,7 +19,6 @@ For example, for C++Now, the placeholders would be replaced with:
 ```
 %%CONFERENCE%%             - C++Now 
 %%COMMUNITY%%              - C++ 
-%%REPO%%                   - https://github.com/boostcon/cppnow_code_of_conduct 
 %%COC-STAFF-CONTACT-INFO%% - * Jackie Kay,              Attendee Liaison, [mailto:jackie@cppnow.org][]
                              * Bryce Adelstein Lelbach, Program Chair,    [mailto:bryce@cppnow.org][]
                              * Jon Kalb,                Conference Chair, [mailto:jon@cppnow.org][]

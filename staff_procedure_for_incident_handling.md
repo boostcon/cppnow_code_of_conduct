@@ -6,8 +6,8 @@ an incident of harassment or other inappropriate behavior.
 
 First, familiarize yourself with:
 
-- [The Code of Conduct](%%REPO%%/code_of_conduct.md).
-- [The Attendee Procedure for Incident Handling](%%REPO%%/attendee_procedure_for_incident_handling.md).
+- [The Code of Conduct](code_of_conduct.md).
+- [The Attendee Procedure for Incident Handling](attendee_procedure_for_incident_handling.md).
 
 Reporting Procedure
 -------------------
