@@ -21,7 +21,7 @@ For example, for C++Now, the placeholders would be replaced with:
 %%CONFERENCE%%             - C++Now 
 %%COMMUNITY%%              - C++ 
 %%REPO%%                   - https://github.com/boostcon/cppnow_code_of_conduct 
-%%COC-STAFF-CONTACT-INFO%% - * Jackie Kay,              Attendee Liasion, [mailto:jackie@cppnow.org][]
+%%COC-STAFF-CONTACT-INFO%% - * Jackie Kay,              Attendee Liaison, [mailto:jackie@cppnow.org][]
                              * Bryce Adelstein Lelbach, Program Chair,    [mailto:bryce@cppnow.org][]
                              * Jon Kalb,                Conference Chair, [mailto:jon@cppnow.org][]
 %%COC-STAFF-FIRST-NAMES%%  - Jackie, Bryce and/or Jon 
