@@ -40,10 +40,10 @@ The Longer Version
 ------------------
 
 Harassment includes offensive verbal comments related to gender, sexual
-orientation, disability, physical appearance, body size, race, religion; displaying
-sexual images; deliberate intimidation, stalking, following,
-harassing photography or recording; sustained disruption of talks or other
-events; inappropriate physical contact; and unwelcome sexual attention.
+orientation, disability, physical appearance, body size, race, religion, sexual
+images in public spaces, deliberate intimidation, stalking, following,
+harassing photography or recording, sustained disruption of talks or other
+events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply
 immediately.
@@ -80,8 +80,8 @@ value your attendance.
 Procedure for Handling Harassment
 ---------------------------------
 
-- [Attendee Procedure for Incident Handling](%%REPO%%/attendee_procedure_for_incident_handling.md)
-- [Staff Procedure for Incident Handling](%%REPO%%/staff_procedure_for_incident_handling.md)
+- [Attendee Procedure for Incident Handling](attendee_procedure_for_incident_handling.md)
+- [Staff Procedure for Incident Handling](staff_procedure_for_incident_handling.md)
 
 License
 -------
