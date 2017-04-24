@@ -39,8 +39,8 @@ Harassment includes:
 All communication should be appropriate for a professional audience including
   people of many different backgrounds.
 Be kind to others. Do not insult or put down other attendees.
-Remember that sexist, racist, and other exclusionary jokes can be offensive to
-  those around you.
+Sexual language and imagery is not appropriate for any conference venue,
+  including talks
 Excessive swearing and offensive jokes are not appropriate for %%CONFERENCE%%.
 
 We do not tolerate harassment of conference participants in any form.
@@ -49,6 +49,11 @@ If a participant engages in behavior that violates this code of conduct, the
   expulsion from the conference with no refund.
 Participants asked to stop any harassing behavior are expected to comply
   immediately.
+
+Exhibitors, sponsors and/or vendors with booths, demos or other displays
+  are also subject to this Code of Conduct. 
+In particular, participants should not use sexualized images, activities, or
+  material.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
