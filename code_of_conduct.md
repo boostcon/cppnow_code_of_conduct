@@ -39,11 +39,16 @@ Thank you for helping make this a welcoming, friendly event for all.
 The Longer Version
 ------------------
 
-Harassment includes offensive verbal comments related to gender, sexual
-orientation, disability, physical appearance, body size, race, religion, sexual
-images in public spaces, deliberate intimidation, stalking, following,
-harassing photography or recording, sustained disruption of talks or other
-events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes:
+
+* Offensive verbal comments related to gender, sexual orientation, disability,
+    physical appearance, body size, race, religion.
+* Displaying sexual images.
+* Deliberate intimidation, stalking or following.
+* Unwanted photography or recording.
+* Sustained disruption of talks or other events.
+* Inappropriate physical contact.
+* Unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply
 immediately.
