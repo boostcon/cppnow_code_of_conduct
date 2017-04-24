@@ -85,8 +85,8 @@ value your attendance.
 Procedure for Handling Harassment
 ---------------------------------
 
-- [Attendee Procedure for Incident Handling](%%REPO%%/attendee_procedure_for_incident_handling.md)
-- [Staff Procedure for Incident Handling](%%REPO%%/staff_procedure_for_incident_handling.md)
+- [Attendee Procedure for Incident Handling](attendee_procedure_for_incident_handling.md)
+- [Staff Procedure for Incident Handling](staff_procedure_for_incident_handling.md)
 
 License
 -------
