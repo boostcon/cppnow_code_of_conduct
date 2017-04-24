@@ -38,6 +38,7 @@ Harassment includes:
 
 All communication should be appropriate for a professional audience including
   people of many different backgrounds.
+Be kind to others. Do not insult or put down other attendees.
 Remember that sexist, racist, and other exclusionary jokes can be offensive to
   those around you.
 Excessive swearing and offensive jokes are not appropriate for %%CONFERENCE%%.
