@@ -1,11 +1,14 @@
 The C++ Code of Conduct is:
 
-* A set of rules regarding appropriate behavior and procedures for dealing with violations of those rules.
+* A set of rules regarding appropriate behavior and procedures for dealing with
+    violations of those rules.
 * Intended for use at C++ community events.
-* Generic; concrete event details, contact info, etc have been replaced with generic placeholders.
+* Generic; concrete event details, contact info, etc have been replaced with
+    generic placeholders.
 * A derivative of the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
 
-This is version 1.0 of the C++ Code of Conduct. 
+This is version 1.0 of the C++ Code of Conduct. It is licensed under the
+[Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0).
 
 All placeholders match the regex `%%[A-Za-z0-9-]+%%`. The placeholders are:
 
