@@ -54,6 +54,8 @@ Exhibitors, sponsors and/or vendors with booths, demos or other displays
   are also subject to this Code of Conduct. 
 In particular, participants should not use sexualized images, activities, or
   material.
+Booth staff (including volunteers) should not use sexualized
+  clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
