@@ -9,9 +9,6 @@
 # Supported events.
 EVENTS="cppnow or cppcon"
 
-# Files to perform substition on.
-TEMPLATE_FILES="README.md code_of_conduct.md attendee_procedure_for_incident_handling.md staff_procedure_for_incident_handling.md"
-
 ################################################################################
 
 if [ "${#}" -lt 1 ]; then
@@ -27,13 +24,13 @@ case ${EVENT} in
         CONFERENCE='C++Now'
         COMMUNITY='C++ and Boost'
         COC_STAFF_CONTACT_INFO='* Jackie Kay,              Attendee Liaison, [mailto:jackie@cppnow.org][]\n* Bryce Adelstein Lelbach, Program Chair,    [mailto:bryce@cppnow.org][]\n* Jon Kalb,                Conference Chair, [mailto:jon@cppnow.org][]'
-        COC_STAFF_FIRST_NAMES='Jackie, Bryce and/or Jon'
+        COC_STAFF_FIRST_NAMES='Jackie, Bryce and\/or Jon'
         ;;
     cppcon)
         CONFERENCE='CppCon'
         COMMUNITY='C++'
         COC_STAFF_CONTACT_INFO='* Titus Winters,           Attendee Liaison,                [mailto:titus@cppcon.org][]\n* Bryce Adelstein Lelbach, Program Chair,                   [mailto:bryce@cppcon.org][]\n* Jon Kalb,                Conference Chair,                [mailto:jon@cppcon.org][]\n* Herb Sutter,             Standard C++ Foundation Advisor, [mailto:herb@cppcon.org][]'
-        COC_STAFF_FIRST_NAMES='Titus, Bryce, Jon and/or Herb'
+        COC_STAFF_FIRST_NAMES='Titus, Bryce, Jon and\/or Herb'
         ;;
     *)
         echo "ERROR: Unknown event '${EVENT}'"
@@ -44,8 +41,17 @@ esac
 
 ################################################################################
 
-mv README.md README.md.backup
+# Files to perform substition on.
+TEMPLATE_FILES="README.md code_of_conduct.md attendee_procedure_for_incident_handling.md staff_procedure_for_incident_handling.md"
+
+[ -f README.md ] && cp README.md README.md.backup
+[ -f README_generic.md ] && cp README_generic.md README_generic.md.backup
+git checkout -- README.md README_generic.md
 mv README_generic.md README.md
+
+#sed -i.backup "s/%%CONFERENCE%%/${CONFERENCE}/g; s/%%COMMUNITY%%/${COMMUNITY}/g; s/%%COC_STAFF_CONTACT_INFO%%/${COC_STAFF_CONTACT_INFO}/g; s/%%COC_STAFF_FIRST_NAMES%%/${COC_STAFF_FIRST_NAMES}/g" ${TEMPLATE_FILES}
+
+#s/%%COC_STAFF_FIRST_NAMES%%/${COC_STAFF_FIRST_NAMES}/g;
 
 sed -i.backup "
     s/%%CONFERENCE%%/${CONFERENCE}/g;
