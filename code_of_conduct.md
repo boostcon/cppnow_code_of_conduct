@@ -1,4 +1,4 @@
-%%CONFERENCE%% Code of Conduct
+%%CONFERENCE%% Code of Conduct, Version 1.0
 ======================
 
 Introduction

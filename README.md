@@ -2,6 +2,8 @@ The C++ Code of Conduct is a derivative of the [PyCon Code of Conduct](https://g
 intended for use at C++ community events. It is generic; concrete event
 details, contact info, etc have been replaced with generic placeholders.
 
+This is version 1.0 of the C++ Code of Conduct. 
+
 All placeholders match the regex `%%[A-Za-z0-9-]+%%`. The placeholders are:
 
 ```
