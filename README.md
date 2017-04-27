@@ -1,6 +1,9 @@
-The C++ Code of Conduct is a derivative of the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct)
-intended for use at C++ community events. It is generic; concrete event
-details, contact info, etc have been replaced with generic placeholders.
+The C++ Code of Conduct is:
+
+* A set of rules regarding appropriate behavior and procedures for dealing with violations of those rules.
+* Intended for use at C++ community events.
+* Generic; concrete event details, contact info, etc have been replaced with generic placeholders.
+* A derivative of the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
 
 This is version 1.0 of the C++ Code of Conduct. 
 
