@@ -13,13 +13,13 @@ assistance. If everyone is physically safe, involve law enforcement or security
 only at a victim's request. 
 
 2. **Inform the Code of Conduct conference staff of the incident.** Contact
-%%COC-STAFF-FIRST-NAMES%% (info below) and inform them that an incident has
+%%COC_STAFF_FIRST_NAMES%% (info below) and inform them that an incident has
 occurred. All conference staff are familiar with the code of conduct and
 incident reporting procedure, and can assist you in contacting these
 individuals. 
 
 3. **Report the details to the Code of Conduct conference staff.** Provide
-%%COC-STAFF-FIRST-NAMES%% with a report describing the incident, preferably by
+%%COC_STAFF_FIRST_NAMES%% with a report describing the incident, preferably by
 email. All reports are confidential.
 
 Try to gather as much information as available, but do not interview people
@@ -44,5 +44,5 @@ Contact Information
 The Code of Conduct conference staff are responsible for overseeing incident
 handling:
 
-%%COC-STAFF-CONTACT-INFO%%
+%%COC_STAFF_CONTACT_INFO%%
 

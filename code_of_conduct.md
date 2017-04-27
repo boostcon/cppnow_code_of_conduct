@@ -65,7 +65,7 @@ Contact Information
 If you are being harassed, notice that someone else is being harassed, or have
   any other concerns, please contact one of the following individuals: 
 
-%%COC-STAFF-CONTACT-INFO%%
+%%COC_STAFF_CONTACT_INFO%%
 
 All reports and concerns are kept confidential. 
  
