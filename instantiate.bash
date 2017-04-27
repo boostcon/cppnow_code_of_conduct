@@ -10,7 +10,7 @@
 EVENTS="cppnow or cppcon"
 
 # Files to perform substition on.
-TEMPLATE_FILES=README.md code_of_conduct.md attendee_procedure_for_incident_handling.md staff_procedure_for_incident_handling.md
+TEMPLATE_FILES="README.md code_of_conduct.md attendee_procedure_for_incident_handling.md staff_procedure_for_incident_handling.md"
 
 ################################################################################
 
