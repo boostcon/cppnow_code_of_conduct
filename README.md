@@ -23,7 +23,7 @@ For example, for C++Now, the placeholders would be replaced with:
 
 ```
 %%CONFERENCE%%             - C++Now 
-%%COMMUNITY%%              - C++ 
+%%COMMUNITY%%              - C++ and Boost
 %%COC-STAFF-CONTACT-INFO%% - * Jackie Kay,              Attendee Liaison, [mailto:jackie@cppnow.org][]
                              * Bryce Adelstein Lelbach, Program Chair,    [mailto:bryce@cppnow.org][]
                              * Jon Kalb,                Conference Chair, [mailto:jon@cppnow.org][]
