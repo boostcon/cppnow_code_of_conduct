@@ -21,16 +21,20 @@ EVENT=${1}
 
 case ${EVENT} in
     cppnow)
-        CONFERENCE='C++Now'
+        CONFERENCE='C++Now '
         COMMUNITY='C++ and Boost'
-        COC_STAFF_CONTACT_INFO='* Jackie Kay,              Attendee Liaison, [jackie@cppnow.org](mailto:jackie@cppnow.org)\n* Bryce Adelstein Lelbach, Program Chair,    [bryce@cppnow.org](mailto:bryce@cppnow.org)\n* Jon Kalb,                Conference Chair, [jon@cppnow.org](mailto:jon@cppnow.org)'
-        COC_STAFF_FIRST_NAMES='Jackie, Bryce and\/or Jon'
+        COC_TEAM_FIRST_NAMES='Jon, Bryce and Jackie'
+        COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Bryce Adelstein Lelbach (Program Chair) and Jackie Kay'
+        COC_DECISION_MAKERS='Jon'
+        COC_EMAIL='[mailto:security@cppnow.org][]'
         ;;
     cppcon)
         CONFERENCE='CppCon'
         COMMUNITY='C++'
-        COC_STAFF_CONTACT_INFO='* Titus Winters,           Attendee Liaison,                [titus@cppcon.org][mailto:titus@cppcon.org]\n* Bryce Adelstein Lelbach, Program Chair,                   [bryce@cppcon.org][mailto:bryce@cppcon.org]\n* Jon Kalb,                Conference Chair,                [jon@cppcon.org](mailto:jon@cppcon.org)\n* Herb Sutter,             Standard C++ Foundation Advisor, [herb@cppcon.org](mailto:herb@cppcon.org)'
-        COC_STAFF_FIRST_NAMES='Titus, Bryce, Jon and\/or Herb'
+        COC_TEAM_FIRST_NAMES='Jon, Herb, Bryce, Jackie and Titus'
+        COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Herb Sutter (Standard C++ Foundation Advisor), Bryce Adelstein Lelbach (Program Chair), Jackie Kay and Titus Winters'
+        COC_DECISION_MAKERS='Jon and Herb'
+        COC_EMAIL='[mailto:security@cppcon.org][]'
         ;;
     *)
         echo "ERROR: Unknown event '${EVENT}'"
@@ -53,7 +57,9 @@ git checkout -- README.md
 sed -i.backup "
     s/%%CONFERENCE%%/${CONFERENCE}/g;
     s/%%COMMUNITY%%/${COMMUNITY}/g;
-    s/%%COC_STAFF_CONTACT_INFO%%/${COC_STAFF_CONTACT_INFO}/g;
-    s/%%COC_STAFF_FIRST_NAMES%%/${COC_STAFF_FIRST_NAMES}/g;
+    s/%%COC_TEAM_FIRST_NAMES%%/${COC_FIRST_NAMES}/g;
+    s/%%COC_TEAM_FULL_NAMES%%/${COC_TEAM_FULL_NAMES}/g;
+    s/%%COC_DECISION_MAKERS%%/${COC_DECISION_MAKERS}/g;
+    s/%%COC_EMAIL%%/${COC_EMAIL}/g;
 " ${TEMPLATE_FILES}
 

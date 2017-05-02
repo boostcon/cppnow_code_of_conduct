@@ -28,7 +28,7 @@ Code of Conduct
 Harassment includes:
 
 * Offensive verbal comments related to gender, sexual orientation, disability,
-    physical appearance, body size, race, religion.
+    physical appearance, body size, race, religion or political affiliation.
 * Displaying sexual images.
 * Deliberate intimidation, stalking or following.
 * Unwanted photography or recording.
@@ -63,9 +63,8 @@ Contact Information
 -------------------
 
 If you are being harassed, notice that someone else is being harassed, or have
-  any other concerns, please contact one of the following individuals: 
-
-%%COC_STAFF_CONTACT_INFO%%
+  any other concerns, please contact %%COC_TEAM_FULL_NAMES%% by emailing
+  %%COC_EMAIL%%.
 
 All reports and concerns are kept confidential. 
  
