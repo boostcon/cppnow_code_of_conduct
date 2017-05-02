@@ -26,7 +26,7 @@ case ${EVENT} in
         COC_TEAM_FIRST_NAMES='Jon, Bryce and Jackie'
         COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Bryce Adelstein Lelbach (Program Chair) and Jackie Kay'
         COC_DECISION_MAKERS='Jon'
-        COC_EMAIL='[mailto:security@cppnow.org][]'
+        COC_EMAIL='[security@cppnow.org](mailto:security@cppnow.org)'
         ;;
     cppcon)
         CONFERENCE='CppCon'
@@ -34,7 +34,7 @@ case ${EVENT} in
         COC_TEAM_FIRST_NAMES='Jon, Herb, Bryce, Jackie and Titus'
         COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Herb Sutter (Standard C++ Foundation Advisor), Bryce Adelstein Lelbach (Program Chair), Jackie Kay and Titus Winters'
         COC_DECISION_MAKERS='Jon and Herb'
-        COC_EMAIL='[mailto:security@cppcon.org][]'
+        COC_EMAIL='[security@cppcon.org](mailto:security@cppcon.org)'
         ;;
     *)
         echo "ERROR: Unknown event '${EVENT}'"

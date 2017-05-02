@@ -30,7 +30,7 @@ For example, for C++Now, the placeholders would be replaced with:
 %%COC_TEAM_FIRST_NAMES%% - Jon, Bryce and Jackie 
 %%COC_TEAM_FULL_NAMES%%  - Jon Kalb (Conference Chair), Bryce Adelstein Lelbach (Program Chair) and Jackie Kay
 %%COC_DECISION_MAKERS%%  - Jon
-%%COC_EMAIL%%            - [mailto:security@cppnow.org][] 
+%%COC_EMAIL%%            - [security@cppnow.org](mailto:security@cppnow.org)
 ```
 
 The [instantiate.bash](instantiate.bash) shell script can be used to replace
