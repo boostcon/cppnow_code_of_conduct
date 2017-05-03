@@ -23,7 +23,7 @@ Code of Conduct
 
 %%CONFERENCE%% is dedicated to providing a harassment-free conference experience
   for everyone, regardless of gender, sexual orientation, disability, physical
-  appearance, body size, race, or religion.
+  appearance, body size, race, religion or political affiliation.
 
 Harassment includes:
 
