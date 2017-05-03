@@ -1,3 +1,7 @@
+################################################################################
+# IF YOU ARE NOT NAMED BRYCE YOU PROBABLY DON'T WANT TO RUN THIS SCRIPT.
+################################################################################
+
 #! /bin/bash
 ################################################################################
 # Copyright (c) 2017 Bryce Adelstein Lelbach aka wash <brycelelbach@gmail.com>
@@ -32,7 +36,6 @@ case ${EVENT} in
 esac
 
 ################################################################################
-# This is all pretty dangerous.
 
 git checkout ${EVENT}
 git reset --hard HEAD~
