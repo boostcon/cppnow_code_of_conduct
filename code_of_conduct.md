@@ -40,7 +40,7 @@ All communication should be appropriate for a professional audience including
   people of many different backgrounds.
 Be kind to others. Do not insult or put down other attendees.
 Sexual language and imagery is not appropriate for any conference venue,
-  including talks
+  including talks.
 Excessive swearing and offensive jokes are not appropriate for %%CONFERENCE%%.
 
 We do not tolerate harassment of conference participants in any form.

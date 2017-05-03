@@ -12,17 +12,17 @@ First, familiarize yourself with:
 Reporting Procedure
 -------------------
 
-1. **Make sure everyone is physically safe.** If there is a threat to anyone's
+**1. Make sure everyone is physically safe.** If there is a threat to anyone's
 physical safety, including yourself or other conference staff, summon security
 or law enforcement. Local law enforcement can be contacted by calling 911. If
 everyone is physically safe, involve law enforcement or security only at a
 victim's request. 
 
-2. **Inform the Code of Conduct team of the incident.** Contact
+**2. Inform the Code of Conduct team of the incident.** Contact
 %%COC_TEAM_FULL_NAMES%% by emailing %%COC_EMAIL%% and inform them that an
 incident has occurred. 
 
-3. **Record what happened.** If possible, have the individual reporting the
+**3. Record what happened.** If possible, have the individual reporting the
 incident record the details electronically or on paper. Otherwise, transcribe
 it yourself as it was told to you.
 
@@ -35,11 +35,11 @@ The important information that should be recorded is:
 - The approximate time and location of the incident.
 - The circumstances surrounding the incident.
 
-4. **Report the details to the Code of Conduct team.** Provide
+**4. Report the details to the Code of Conduct team.** Provide
 %%COC_TEAM_FIRST_NAMES%% with a report describing the incident, preferably by
 email. All reports are confidential.
 
-5. **Make an initial response to the incident.** Depending on the
+**5. Make an initial response to the incident.** Depending on the
 severity/details of the incident, please follow these guidelines:
 
 - Move the victim(s) and the reporter(s) of the incident away from the alleged
@@ -65,13 +65,13 @@ There are also some guidelines as to what not to do as an initial response:
     therefore coercive. "If you're OK with it [pursuing the complaint]"
     suggests that you are by default pursuing it and is not coercive.
 
-6. **Contact the alleged harasser(s).** A conference staff member (preferably
+**6. Contact the alleged harasser(s).** A conference staff member (preferably
 %%COC_TEAM_FIRST_NAMES%%) should communicate with the alleged harasser(s). The
 alleged harasser(s) should be informed of what has been reported about them.
 Allow the alleged harasser to provide their side of the story and record it as
 per step 3.
 
-7. **Meet with Code of Conduct team to decide a response.** Meet
+**7. Meet with Code of Conduct team to decide a response.** Meet
 with %%COC_TEAM_FIRST_NAMES%%. The main objectives of this meeting is to
 determine:
 
@@ -103,13 +103,13 @@ Actions to take when dealing with Code of Conduct offenders include:
 Keep in mind that it is not a good idea to encourage an apology from the
 harasser.
 
-8. **Inform accused individual(s) of any actions that will be taken.** A
+**8. Inform accused individual(s) of any actions that will be taken.** A
 conference staff member (preferably %%COC_TEAM_FIRST_NAMES%%) should
 communicate with the alleged harasser(s). Let the accused individual(s) know if
 there is a forum for them to appeal the decision, but that the decision will
 stand in the meantime.
 
-9. **Inform those aware of the initial incident that it has been handled.** 
+**9. Inform those aware of the initial incident that it has been handled.** 
 Make sure that everyone aware of the initial incident is also made aware that
 it is not according to policy and that official action has been taken. The
 privacy of individual attendees should be respected. Personal information and
@@ -119,7 +119,7 @@ If some attendees were angered by the incident, it is best to apologize to them
 that the incident occurred to begin with. If there are residual hard feelings,
 suggest that they write an email to %%COC_EMAIL%%. 
 
-10. **The Code of Conduct team will make an announcement if necessary.**
+**10. The Code of Conduct team will make an announcement if necessary.**
 %%COC_DECISION_MAKERS%% may decide to make a public announcement about the
 incident. If an announcement is made, the privacy of individual attendees should
 be respected. Personal information and details of the incident should not be

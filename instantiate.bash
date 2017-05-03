@@ -57,7 +57,7 @@ git checkout -- README.md
 sed -i.backup "
     s/%%CONFERENCE%%/${CONFERENCE}/g;
     s/%%COMMUNITY%%/${COMMUNITY}/g;
-    s/%%COC_TEAM_FIRST_NAMES%%/${COC_FIRST_NAMES}/g;
+    s/%%COC_TEAM_FIRST_NAMES%%/${COC_TEAM_FIRST_NAMES}/g;
     s/%%COC_TEAM_FULL_NAMES%%/${COC_TEAM_FULL_NAMES}/g;
     s/%%COC_DECISION_MAKERS%%/${COC_DECISION_MAKERS}/g;
     s/%%COC_EMAIL%%/${COC_EMAIL}/g;
