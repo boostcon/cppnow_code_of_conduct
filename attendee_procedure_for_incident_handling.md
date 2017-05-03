@@ -1,7 +1,7 @@
-%%CONFERENCE%% Attendee Procedure for Incident Handling 
+C++Now Attendee Procedure for Incident Handling 
 ===============================================
 
-If you are a %%CONFERENCE%% attendee and you are being harassed, notice that
+If you are a C++Now attendee and you are being harassed, notice that
 someone else is being harassed, or have any other concerns, please follow do
 the following:
 
@@ -13,13 +13,13 @@ assistance. If everyone is physically safe, involve law enforcement or security
 only at a victim's request. 
 
 **2. Inform the Code of Conduct team of the incident.** Contact
-%%COC_TEAM_FULL_NAMES%% by emailing %%COC_EMAIL%% and inform them that an
+Jon Kalb (Conference Chair), Bryce Adelstein Lelbach (Program Chair) and Jackie Kay by emailing [security@cppnow.org](mailto:security@cppnow.org) and inform them that an
 incident has occurred. All conference staff are familiar with the code of
 conduct and incident reporting procedure, and can assist you in contacting
 these individuals. 
 
 **3. Report the details to the Code of Conduct team.** Provide
-%%COC_TEAM_FIRST_NAMES%% with a report describing the incident, preferably by
+Jon, Bryce and Jackie with a report describing the incident, preferably by
 email. All reports are confidential.
 
 Try to gather as much information as available, but do not interview people
