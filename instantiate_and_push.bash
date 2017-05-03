@@ -38,5 +38,6 @@ git checkout ${EVENT}
 git reset --hard HEAD~
 git rebase master
 ./instantiate.bash
+git commit -a -m "Instantiate ${EVENT} variant."
 git push --force origin-${EVENT} ${EVENT}:master && git push --force origin ${EVENT}
 
