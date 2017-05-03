@@ -1,4 +1,4 @@
-%%CONFERENCE%% Attendee Procedure for Incident Handling
+%%CONFERENCE%% Staff Procedure for Incident Handling
 ===============================================
 
 %%CONFERENCE%% conference staff should follow these guidelines and procedures when handling

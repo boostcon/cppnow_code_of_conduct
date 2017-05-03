@@ -21,7 +21,7 @@ EVENT=${1}
 
 case ${EVENT} in
     cppnow)
-        CONFERENCE='C++Now '
+        CONFERENCE='C++Now'
         COMMUNITY='C++ and Boost'
         COC_TEAM_FIRST_NAMES='Jon, Bryce and Jackie'
         COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Bryce Adelstein Lelbach (Program Chair) and Jackie Kay'
